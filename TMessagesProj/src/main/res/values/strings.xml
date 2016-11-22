@@ -2,10 +2,10 @@
 
 
 <resources>
-    <string name="AppName">Talagram</string>
-    <string name="App_name_fa">Talagram</string>
-    <string name="app_name_fa">Talagram</string>
-    <string name="AppNameBeta">Talagram</string>
+    <string name="AppName">Talla gram</string>
+    <string name="App_name_fa">Talla gram</string>
+    <string name="app_name_fa">Talla gram</string>
+    <string name="AppNameBeta">Talla gram</string>
     <string name="LanguageName">English</string>
     <string name="LanguageNameInEnglish">English</string>
     <string name="LanguageCode">en</string>

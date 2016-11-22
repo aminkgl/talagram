@@ -67,7 +67,7 @@ public class DrawerProfileCell extends FrameLayout {
             if (ApplicationLoader.isCustomTheme() && ApplicationLoader.getCachedWallpaper() != null) {
                 paint.setColor(ApplicationLoader.getServiceMessageColor());
             } else {
-                paint.setColor(0xff427ba9);
+                paint.setColor(0xff7ec455);
             }
             canvas.drawCircle(getMeasuredWidth() / 2.0f, getMeasuredHeight() / 2.0f, AndroidUtilities.dp(34) / 2.0f, paint);
             int l = (getMeasuredWidth() - AndroidUtilities.dp(33)) / 2;

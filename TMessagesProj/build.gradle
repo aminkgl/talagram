@@ -94,7 +94,7 @@ android {
             ndk {
                 abiFilter "armeabi-v7a"
             }
-            versionCode = 11
+            versionCode = 12
         }
 
         fat {
@@ -111,7 +111,7 @@ android {
     defaultConfig {
         minSdkVersion 14
         targetSdkVersion 24
-        versionName "3.13.1"
+        versionName "3.13.2"
         multiDexEnabled = true
         externalNativeBuild {
             ndkBuild {
